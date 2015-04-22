@@ -1,0 +1,23 @@
+{
+  "name": "better-console-log",
+  "version": "1.0.0",
+  "description": "Upgrade console logs with timestamp, colour and bell ring. Simple and easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ignlg/better-console-log.git"
+  },
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "Ignacio Lago <ignacio@ignaciolago.com> (http://ignaciolago.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignlg/better-console-log/issues"
+  },
+  "homepage": "https://github.com/ignlg/better-console-log"
+}

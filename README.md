@@ -1,2 +1,2 @@
 # better-console-log
-Timestamp, colour and bell ring. Simple and easy.
+Upgrade console logs with timestamp, colour and bell ring. Simple and easy.
