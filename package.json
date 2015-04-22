@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ignlg/better-console-log/issues"
   },
-  "homepage": "https://github.com/ignlg/better-console-log"
+  "homepage": "https://github.com/ignlg/better-console-log",
+  "dependencies": {
+    "cli-color": "^1.0.0"
+  }
 }
